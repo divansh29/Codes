@@ -1,4 +1,5 @@
-//Graph creation full 
+
+//Adjacent LIST creation
 import java.util.*;
 
 public class Main {
