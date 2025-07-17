@@ -30,8 +30,8 @@ public class Main {
       
     }
     public Boxweight(double l,double h,double w,double weight){
-      super(l,h,w);
-      this.weight=weight;
+      super(l,h,w); //need to intialise the parent class variable
+        this.weight=weight;
     }
   }
   }
